@@ -63,7 +63,6 @@ For questions or feedback, reach out at **kabongorabboni03@gmail.com**.
 ---
 
 Thank you for using **Luwa**!  
-![NOTE]
-> Feel free to customize any sections or add more details specific to your project.
+![NOTE Feel free to customize any sections or add more details specific to your project.]
 
 ---
