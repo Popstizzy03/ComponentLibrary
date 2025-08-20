@@ -58,12 +58,12 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 📬 Contact
 
-For questions or feedback, reach out at **your-email@example.com**.
+For questions or feedback, reach out at **kabongorabboni03@gmail.com**.
 
 ---
 
 Thank you for using **Luwa**!  
->![NOTE]
+![NOTE]
 > Feel free to customize any sections or add more details specific to your project.
 
 ---
