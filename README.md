@@ -1,26 +1,69 @@
-Modify Your Config: Open config.lua and adjust the parameters as needed.
+# 🌟 Luwa Component Library
 
-Example Configuration
-Here’s a sample configuration to help you get started:
+Welcome to **Luwa**, your go-to Lua component library for rapid, beautiful, and efficient development!  
+Make your Lua projects shine with configurable, reusable components and a sleek developer experience.
 
-lua
+---
 
+## ✨ Features
 
--- Sample Lua Configuration
+- **Customizable Themes**: Switch between dark and light, or make your own!
+- **Localization**: Multi-language support out of the box.
+- **Auto Save**: Never lose your progress with intelligent auto-save.
+- **Easy Integration**: Plug-and-play components for your Lua projects.
+- **Open Source**: MIT licensed and open for contributions.
+
+---
+
+## ⚙️ Getting Started
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Popstizzy03/ComponentLibrary.git
+   cd ComponentLibrary
+   ```
+
+2. **Modify Your Config**  
+   Open `config.lua` and adjust the parameters as needed.
+
+---
+
+## 📝 Example Configuration
+
+```lua
+-- config.lua
+
 settings = {
     theme = "dark",
     language = "en",
     auto_save = true,
 }
-Contributing
-We welcome contributions! If you have suggestions or improvements, please feel free to submit a pull request.
+```
+> 💡 **Tip:** Change the `theme` to `"light"` or set your preferred language!
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+---
 
-Contact
-For any inquiries, reach out at your-email@example.com.
+## 🤝 Contributing
 
-Thank you for using luwa!
+We ❤️ contributions!  
+If you have ideas, suggestions, or improvements, [open an issue](https://github.com/Popstizzy03/ComponentLibrary/issues) or submit a pull request.
 
-Feel free to customize any sections or add more details specific to your project!
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 📬 Contact
+
+For questions or feedback, reach out at **your-email@example.com**.
+
+---
+
+Thank you for using **Luwa**!  
+>![NOTE]
+> Feel free to customize any sections or add more details specific to your project.
+
+---
